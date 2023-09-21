@@ -1,2 +1,4 @@
 # ECE444-F2023-Lab1
-ECE444 Lab 1
+Breno Pinho
+
+This repo is a clone of: https://github.com/miguelgrinberg/flasky
