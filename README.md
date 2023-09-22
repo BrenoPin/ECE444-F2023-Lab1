@@ -15,7 +15,7 @@ This repo is a clone of: https://github.com/miguelgrinberg/flasky
 
 ![Activity3](https://github.com/BrenoPin/ECE444-F2023-Lab1/assets/53989062/b83d572e-12b6-4605-a83d-4a38112652f5)
 
-#Activity 4
+# Activity 4
 
 ![Activity4_1](https://github.com/BrenoPin/ECE444-F2023-Lab1/assets/53989062/74910b0f-8a66-4fd6-9661-96806c425281)
 
